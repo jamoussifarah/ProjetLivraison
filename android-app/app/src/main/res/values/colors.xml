@@ -32,7 +32,6 @@
     <!-- Status Colors -->
     <color name="status_encours">#F59E0B</color>
     <color name="status_livre">#22C55E</color>
-    <color name="status_livre">#22C55E</color>
     <color name="status_annule">#EF4444</color>
 
     <!-- Error & Warning -->
