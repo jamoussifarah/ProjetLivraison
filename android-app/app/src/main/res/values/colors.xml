@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#0F172A</color>
+    <color name="primary_dark">#020617</color>
+    <color name="primary_light">#1E293B</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#1E293B</color>
+    <color name="secondary_light">#334155</color>
+
+    <!-- Accent Colors -->
+    <color name="accent">#3B82F6</color>
+    <color name="accent_light">#60A5FA</color>
+    <color name="accent_dark">#2563EB</color>
+
+    <!-- Success Color -->
+    <color name="success">#22C55E</color>
+    <color name="success_light">#4ADE80</color>
+
+    <!-- Background Colors -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="status_encours">#F59E0B</color>
+    <color name="status_livre">#22C55E</color>
+    <color name="status_livre">#22C55E</color>
+    <color name="status_annule">#EF4444</color>
+
+    <!-- Error & Warning -->
+    <color name="error">#EF4444</color>
+    <color name="warning">#F59E0B</color>
+
+    <!-- Divider -->
+    <color name="divider">#E2E8F0</color>
+
+    <!-- Overlay -->
+    <color name="overlay">#80000000</color>
+
+    <!-- White/Black -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

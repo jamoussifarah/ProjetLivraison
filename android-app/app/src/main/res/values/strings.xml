@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Delivery</string>
+
+    <!-- Common -->
+    <string name="loading">Chargement...</string>
+    <string name="error">Erreur</string>
+    <string name="retry">Réessayer</string>
+    <string name="cancel">Annuler</string>
+    <string name="confirm">Confirmer</string>
+    <string name="save">Enregistrer</string>
+    <string name="ok">OK</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="search">Rechercher</string>
+    <string name="filter">Filtrer</string>
+    <string name="sync">Synchroniser</string>
+    <string name="send">Envoyer</string>
+
+    <!-- Auth -->
+    <string name="login">Connexion</string>
+    <string name="logout">Déconnexion</string>
+    <string name="username">Login</string>
+    <string name="password">Mot de passe</string>
+    <string name="remember_me">Se souvenir de moi</string>
+    <string name="login_error">Login ou mot de passe incorrect</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_deliveries">Livraisons</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_profile">Profil</string>
+    <string name="nav_settings">Paramètres</string>
+
+    <!-- Delivery Status -->
+    <string name="status_encours">En cours</string>
+    <string name="status_livre">Livré</string>
+    <string name="status_annule">Annulé</string>
+    <string name="status_en_attente">En attente</string>
+
+    <!-- Delivery Details -->
+    <string name="order_number">N° Commande</string>
+    <string name="client_name">Client</string>
+    <string name="client_phone">Téléphone</string>
+    <string name="client_address">Adresse</string>
+    <string name="client_city">Ville</string>
+    <string name="order_amount">Montant</string>
+    <string name="payment_mode">Mode de paiement</string>
+    <string name="delivery_status">État</string>
+    <string name="remark">Remarque</string>
+    <string name="articles">Articles</string>
+    <string name="change_status">Changer l\'état</string>
+    <string name="add_remark">Ajouter une remarque</string>
+
+    <!-- Actions -->
+    <string name="call_phone">Appeler</string>
+    <string name="open_maps">Ouvrir Maps</string>
+    <string name="send_message">Envoyer un message</string>
+    <string name="urgent_message">Message urgent</string>
+
+    <!-- Dashboard Controller -->
+    <string name="dashboard">Tableau de bord</string>
+    <string name="total_deliveries">Total livraisons</string>
+    <string name="deliveries_by_status">Livraisons par état</string>
+    <string name="deliveries_by_livreur">Livraisons par livreur</string>
+    <string name="deliveries_by_client">Livraisons par client</string>
+    <string name="cancelled_deliveries">Livraisons annulées</string>
+    <string name="all_deliveries">Toutes les livraisons</string>
+    <string name="view_details">Voir détails</string>
+
+    <!-- Filters -->
+    <string name="filter_by_date">Filtrer par date</string>
+    <string name="filter_by_livreur">Filtrer par livreur</string>
+    <string name="filter_by_status">Filtrer par état</string>
+    <string name="filter_by_client">Filtrer par client</string>
+
+    <!-- Messages -->
+    <string name="message_placeholder">Tapez votre message...</string>
+    <string name="urgent_message_sent">Message urgent envoyé</string>
+    <string name="new_message">Nouveau message</string>
+
+    <!-- Payment Modes -->
+    <string name="cash">Espèces</string>
+    <string name="card">Carte</string>
+    <string name="online">En ligne</string>
+
+    <!-- Sync -->
+    <string name="sync_success">Synchronisation réussie</string>
+    <string name="sync_error">Erreur de synchronisation</string>
+    <string name="offline_mode">Mode hors ligne</string>
+    <string name="pending_sync">En attente de synchronisation</string>
+
+    <!-- Errors -->
+    <string name="network_error">Erreur de connexion</string>
+    <string name="unknown_error">Erreur inconnue</string>
+    <string name="session_expired">Session expirée</string>
+</resources>
