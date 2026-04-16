@@ -40,11 +40,6 @@
             android:theme="@style/Theme.DeliveryApp" />
 
         <activity
-            android:name=".ui.livreur.LivraisonListFragment"
-            android:exported="false"
-            android:theme="@style/Theme.DeliveryApp" />
-
-        <activity
             android:name=".ui.livraisondetail.LivraisonDetailActivity"
             android:exported="false"
             android:theme="@style/Theme.DeliveryApp" />
